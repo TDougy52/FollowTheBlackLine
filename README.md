@@ -1,6 +1,8 @@
 # FollowTheBlackLine
 Final Project in Microprocessor Technology. Written in C. The program is designed to have a car follow a black line made of electrical tape and get to a point then come back to the initial spot.
 
+Code provided is all but car.c.
+
 Anthony Livingston    Follow the Black Line    December 2015
 
 PROGRAM FUNCTION: 
